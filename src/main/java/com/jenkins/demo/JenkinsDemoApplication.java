@@ -14,6 +14,7 @@ private static final Logger log = LoggerFactory.getLogger(JenkinsDemoApplication
 
 	public static void main(String[] args) {
 		log.info("===============================MAIN METHOD=========================>>>>>>>>");
+		log.info("===============================MAIN METHOD=========================>>>>>>>>");
 		SpringApplication.run(JenkinsDemoApplication.class, args);
 	}
 	@PostConstruct
