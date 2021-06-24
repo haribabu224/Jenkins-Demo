@@ -20,6 +20,7 @@ private static final Logger log = LoggerFactory.getLogger(JenkinsDemoApplication
 	}
 	@PostConstruct
 	public void init() {
+
 		
 		log.info("===============================INIT METHOD=========================>>>>>>>>");
 		
@@ -27,6 +28,7 @@ private static final Logger log = LoggerFactory.getLogger(JenkinsDemoApplication
 		
 		log.info("===============================INIT METHOD=========================>>>>>>>>");
 		
+
 		log.info("===============================INIT METHOD=========================>>>>>>>>");
 		}
 
