@@ -20,7 +20,15 @@ private static final Logger log = LoggerFactory.getLogger(JenkinsDemoApplication
 	}
 	@PostConstruct
 	public void init() {
-		System.out.println("Jst Testing");
+
+		
+		log.info("===============================INIT METHOD=========================>>>>>>>>");
+		
+		log.info("===============================INIT METHOD=========================>>>>>>>>");
+		
+		log.info("===============================INIT METHOD=========================>>>>>>>>");
+		
+
 		log.info("===============================INIT METHOD=========================>>>>>>>>");
 		}
 
